@@ -16,8 +16,13 @@ Anyways, clone and run `make install`:
 
 ### Flags
 `--help, -h`: Print help
+
 `--shell, -s`: Spawn a shell (hardcoded to fish for now) instead of running a command
+
 `--user, -u <USER>`: Run the command as the specified user
+
 `--clear-env, -c`: Don't retain environment variables
+
 `--login, -l`: Emulate a login shell
+
 `--version, -V`: Print version
