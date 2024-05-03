@@ -16,7 +16,7 @@ Clone and run `make install`:
 
 With `curl`:
 
-`sudo -- sh 'c 'curl -o /usr/local/bin/dosu https://github.com/cursefroge/dosu/releases/latest/download/dosu && chown root:root /usr/local/bin/dosu && chmod u+s /usr/local/bin/dosu'`
+`sudo -- sh -c 'curl -o /usr/local/bin/dosu https://github.com/cursefroge/dosu/releases/latest/download/dosu && chown root:root /usr/local/bin/dosu && chmod u+s /usr/local/bin/dosu'`
 
 ## Usage
 `dosu [flags] <command>`
