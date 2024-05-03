@@ -8,4 +8,5 @@ Because I wanted to, and because I thought sudo was stupid.
 why?
 
 Anyways, clone and run `make install`:
+
 `git clone https://github.com/cursefroge/dosu.git && cd dosu && make install`
