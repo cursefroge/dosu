@@ -33,3 +33,6 @@ With `curl`:
 `--login, -l`: Emulate a login shell
 
 `--version, -V`: Print version
+
+## Configuration
+There is no config system. Simply edit the source.
